@@ -1,0 +1,14 @@
+title: "Amyas Merivale"
+description: "Personal web site of Amyas Merivale."
+base: "/"
+css: "/assets/css"
+pdf: "/assets/pdf"
+img: "/assets/img"
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+orcid: 0000-0002-6301-6419
+scopus: 44461866400
+github: merivale
