@@ -1,0 +1,9 @@
+- id: home
+  title: Home
+  url: /
+- id: research
+  title: Research
+  url: /research
+- id: teaching
+  title: Teaching
+  url: /teaching

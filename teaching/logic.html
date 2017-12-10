@@ -1,0 +1,12 @@
+---
+section: teaching
+---
+      <h2>Introduction to Logic</h2>
+      <p>The set text for this course is Volker Halbach's Logic Manual. You can find details of the book and various other supporting materials here: <a href="http://logicmanual.philosophy.ox.ac.uk/">logicmanual.philosophy.ox.ac.uk</a>.</p>
+      <p>Note that we will not be going through the course content in the default order. This means that you will encounter some things with me before you encounter them in the university lectures, and vice versa. Don't let this worry you - it won't happen very much, and everything will have been covered twice by the end of term.</p>{% for week in site.data.logic %}
+      <h3>Week {{ week.number }}: {{ week.title }}</h3>
+      <ul class="teaching">
+        <li>Reading: {{ week.reading }}</li>{% if week.notes %}
+        <li>Notes: <a href="{{ site.pdf }}/teaching/logic/{{ week.notes }}.pdf">{{ week.notes }} (PDF)</a></li>{% endif %}
+        <li>Work: <a href="{{ site.pdf }}/teaching/logic/Week - {{ week.number }} - Exercises.pdf">Week {{ week.number }} - Exercises (PDF)</a></li>
+      </ul>{% endfor %}

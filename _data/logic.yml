@@ -1,0 +1,25 @@
+- number: 1
+  title: "Logic and Language"
+  reading: "Halbach, chapter 1, §§1.5-6."
+  notes: Definitions
+- number: 2
+  title: "The Propositional Calculus"
+  reading: "Halbach, chapters 2 and 3."
+- number: 3
+  title: "The Predicate Calculus, part 1"
+  reading: "Halbach, chapter 4 (all), chapter 7, §§7.2-3"
+- number: 4
+  title: "Sets and Relations"
+  reading: "Halbach, chapter 1, §§1.1-4"
+- number: 5
+  title: "The Predicate Calculus, part 2"
+  reading: "Halbach, chapter 5"
+- number: 6
+  title: "Natural Deduction, part 1"
+  reading: "Halbach, chapter 6, §6.1"
+- number: 7
+  title: "Natural Deduction, part 2"
+  reading: "Halbach, chapter 6, §6.2, chapter 7, §§7.1 & 7.4"
+- number: 8
+  title: "Equivalence and Identity"
+  reading: "Halbach, chapter 8"
