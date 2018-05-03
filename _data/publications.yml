@@ -1,0 +1,28 @@
+- year: "forthcoming"
+  books:
+    - title: "Hume's Enquiry concerning the Principles of Morals, with Writings on Aesthetics and the Passions"
+      publisher: "Oxford University Press"
+- year: "2014"
+  books:
+    - title: "An Enquiry Concerning the Passions: A Critical Study of Hume's Four Dissertations"
+      publisher: "PhD Thesis"
+      url: "/assets/pdf/2014_An_Enquiry_Concerning_the_Passions.pdf"
+- year: "2011"
+  articles:
+    - title: "Mixed Feelings, Mixed Metaphors: Hume on Tragic Pleasure"
+      journal: "British Journal of Aesthetics"
+      volume: "51.3"
+      pages: "259-269"
+      url: "https://doi.org/10.1093/aesthj/ayr013"
+- year: "2009"
+  articles:
+    - title: "Hume's Mature Account of the Indirect Passions"
+      journal: "Hume Studies"
+      when: "35.1&amp;2"
+      pages: "185-210"
+      url: "https://muse.jhu.edu/article/403837"
+- year: "2008"
+  books:
+    - title: "Classifying Conditionals"
+      publisher: "BPhil Thesis"
+      url: "/assets/pdf/2008_Classifying_Conditionals.pdf"

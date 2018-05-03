@@ -1,9 +1,8 @@
 title: "Amyas Merivale"
 description: "Personal web site of Amyas Merivale."
-base: "/"
-css: "/assets/css"
-pdf: "/assets/pdf"
-img: "/assets/img"
+markdown: kramdown
+kramdown:
+  parse_block_html: true
 defaults:
   - scope:
       path: ""

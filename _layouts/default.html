@@ -1,3 +1,6 @@
+---
+layout: compress
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -8,21 +11,26 @@
     <meta name="keywords" content="{{ site.keywords }}">
     <meta name="description" content="{{ site.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="{{ site.img }}/favicon.ico">
+    <link rel="shortcut icon" href="/assets/img/favicon.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i">
-    <link rel="stylesheet" href="{{ site.css }}/main.css">
+    <link rel="stylesheet" href="/assets/css/main.css">
+    <script defer src="/assets/js/presentation.js"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
     <title>Amyas Merivale</title>
   </head>
-  <body>
+  <body class="{{ page.section }}">
     <header>
-      <img alt="glasses logo" src="{{ site.img }}/favicon.ico">
+      <img alt="glasses logo" src="/assets/img/favicon.ico">
       <h1>Amyas Merivale</h1>
     </header>
-    <nav>{% for section in site.data.sections %}
-      <a href="{{ section.url }}" class="{% if page.section == section.id %}active{% endif %}">{{ section.title }}</a>{% endfor %}
+    <nav>
+      {% for section in site.data.sections %}
+        <a href="{{ section.url }}" class="{% if page.section == section.id %}active{% endif %}">{{ section.title }}</a>
+      {% endfor %}
     </nav>
     <main>
-{{ content }}    </main>
+      {{ content }}
+    </main>
     <footer>
       <a href="https://orcid.org/{{ site.orcid }}">@ORCID</a>
       <a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}">@Scopus</a>

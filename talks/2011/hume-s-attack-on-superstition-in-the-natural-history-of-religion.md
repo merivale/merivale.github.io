@@ -1,0 +1,141 @@
+---
+section: presentation
+---
+<section class="title">
+
+### "I don't believe in an interventionist God":
+
+# Hume's Attack on Superstition in the *Natural History of Religion*
+
+### Amyas Merivale
+
+### Tercentennial Hume Workshop<br>St Andrew's, 4th March 2011
+
+</section><section>
+
+## Outline of the plot
+
+1. Kail's article
+2. Framework for Hume on religion
+3. An argument in *NHR*
+4. Kail's article (again)
+
+</section><section>
+
+## 1. Kail (2007): Hume against the rational fideists?
+
+Two (very vague) account of *NHR*:
+
+1. primarily a sociological enquiry (Jenkins 1992), but that also provides the means to reply to the argument from common consent (Gaskin 1988)
+2. a more substantial contribution to the campaign against the rationality of religious belief (Kail 2007)
+
+</section><section>
+
+## 1. Kail (2007): Hume against the rational fideists?
+
+Kail's case:
+
+**Hume (elsewhere):** the arguments for religion are no good.
+
+**The rational fideist:** but it can be rational to believe it in the absence of evidence.
+
+**Hume (in *NHR*):** you wouldn't say that if you knew where the belief came from (namely, a conspiracy of ignorance and fear).
+
+</section><section>
+
+## 2. Framework: superstition and "true" religion
+
+The picture in orthodox writers:
+
+<figure><div style="flex:1">
+True Religion
+</div><div style="flex:1">
+False Religion
+<br>
+(superstition)
+</div></figure>
+
+</section><section>
+
+## 2. Framework: superstition and "true" religion
+
+The picture in Hume:
+
+<figure><div>
+True Religion
+</div><div style="flex:1">
+False Religion
+<br>
+(superstition)
+</div></figure>
+
+</section><section>
+
+## 2. Framework: superstition and "true" religion
+
+> Many theists, even the most zealous and refined, have denied a *particular* providence, and have asserted, that the Sovereign mind or first principle of all things, having fixed general laws, by which nature is governed, gives free and uninterrupted course to these laws, and disturbs not, at every turn, the settled order of events by particular volitions. From the beautiful connexion, say they, and rigid observance of established rules, we draw the chief argument for theism; and from the same principles are enabled to answer the principal objections against it.
+> <cite>*NHR*, 6.2</cite>
+
+</section><section>
+
+## 2. Framework: superstition and "true" religion
+
+> The providence of the deity appears not immediately in any operation, but governs every thing by those general and immutable laws, which have been established from the beginning of time... There is no one event, however important to us, which he has exempted from the general laws that govern the universe, or which he has peculiarly reserved for his own immediate action and operation.
+> <cite>*Of Suicide*, 6-7</cite>
+
+</section><section>
+
+## 2. Framework: superstition and "true" religion
+
+> As every enquiry, which regards religion, is of the utmost importance, there are two questions in particular, which challenge our attention, to wit, that concerning its foundation in reason, and that concerning its origin in human nature. Happily, the first question... admits of the most obvious, at least, the clearest solution. The whole frame of nature bespeaks an intelligent author; and no rational enquirer can, after serious reflection, suspend his belief a moment with regard to the primary principles of genuine Theism and Religion. But the other question, concerning the origin of religion in human nature, is exposed to some more difficulty. The belief of invisible, intelligent power... has neither perhaps been so universal as to admit of no exception, nor has it been, in any degree, uniform in the ideas, which it has suggested... The first religious principles must be secondary; such as may easily be perverted by various accidents and causes... What those principles are, which give rise to the original belief, and what those accidents and causes are, which direct its operation, is the subject of our present enquiry.
+> <cite>*NHR*, Intro</cite>
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+Polytheism is bad science; we are ignorant of the true causes of the several momentous events that concern us (storms, droughts, bad harvests), so the imagination proposes invisible, intelligent power as an explanatory hypothesis. The hypothesis might well have been right (and may well be on other planets), but philosophers and scientists now know better.
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+> Could men anatomize nature, according to the most probable, at least the most intelligible philosophy, they would find, that these causes are nothing but the particular fabric and structure of the minute parts of their own bodies and of external objects; and that, by a regular and constant machinery, all the events are produced, about which they are so much concerned. But this philosophy exceeds the comprehension of the ignorant multitude, who can only conceive the unknown causes in a general and confused manner; though their imagination, perpetually employed on the same subject, must labour to form some particular and distinct idea of them.
+> <cite>*NHR*, 3.1</cite>
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+> the whole mythological system is so natural, that, in the vast variety of planets and worlds, contained in this universe, it seems more than probable, that, somewhere or other, it is really carried into execution
+> <cite>*NHR*, 11.1</cite>
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+Theism is not much better than polytheism. Perhaps theists flatter their deity so much as to credit him with creating the world, and so accidentally coincide with "true" religion. But as long as they suppose he interferes with the natural order, they are still superstitious, and so likewise committed to *bad science*.
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+> While they [idolaters] confine themselves to the notion of a perfect being, the creator of the world, they coincide, by chance, with the principles of reason and true philosophy; though they are guided to that notion, not by reason, of which they are in a great measure incapable, but by the adulation and fears of the most vulgar superstition.
+> <cite>*NHR*, 6.5</cite>
+
+</section><section>
+
+## 3. Hume's argument in *NHR*
+
+> Even at this day, and in Europe, ask any of the vulgar, why he believes in an omnipotent creator of the world; he will never mention the beauty of final causes, of which he is wholly ignorant... He will tell you of the sudden and unexpected death of such a one: The fall and bruise of such another: The excessive drought of this season: The cold and rains of another. These he ascribes to the immediate operation of providence: And such events, as, with good reasoners, are the chief difficulties in admitting a supreme intelligence, are with him the sole arguments for it.
+> <cite>*NHR*, 6.1</cite>
+
+</section><section>
+
+## 4. Kail again, and some concluding remarks
+
+- The superstitious believe in a particular providence. Hume openly and vigorously attacks this belief; as well he might, given his stake in the success of natural science.
+- His position is not (only) that there are no good arguments in support of superstitious beliefs. Rather, his position is that there are good arguments *against*. At least one of these, we have seen, is to be found in *NHR*.
+- Thus *NHR* contributes significantly to Hume's overall campaign against the rationality of religious belief (to be precise, *superstitious* belief). But not in the way that Kail suggests: since there is not, as far as Hume is concerned, an *absence* of evidence, but an abundance of evidence *against* particular providence, Kail's rational fideist cannot even get his foot in the door.
+
+</section>

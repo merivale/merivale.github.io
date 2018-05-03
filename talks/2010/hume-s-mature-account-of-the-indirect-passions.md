@@ -1,0 +1,161 @@
+---
+section: presentation
+---
+<section class="title">
+
+# Hume's Mature Account of the Indirect Passions
+
+### Amyas Merivale
+
+### 37th International Hume Conference<br>Antwerp, 8th July 2010
+
+</section><section>
+
+## Introduction
+
+In *Treatise* Book 2: <span style="float:right" class="red"><i class="fas fa-times"></i></span>
+
+- The indirect passions are simple impressions
+- The theory of the double relation of impressions and ideas doesn't work
+
+<div class="delayed">
+In the *Dissertation on the Passions*: <span style="float:right" class="green"><i class="fas fa-check"></i></span>
+
+- The indirect passions are complex impressions
+- The theory of the double relation of impressions and ideas does work
+</div>
+
+</section><section class="centred">
+
+## Introduction
+
+Provocative subtext:
+
+**"Juvenile" *Treatise*<br><span class="red">BAD <i class="far fa-frown"></i></span>**
+
+**Mature writings<br><span class="green">GOOD <i class="far fa-smile"></i></span>**
+
+</section><section>
+
+## Introduction
+
+Why is the *Dissertation* ignored?
+
+The two *Enquiries* differ quite a lot from their *Treatise* ancestors, but the *Dissertation* looks like it's just edited highlights.
+
+Of the 122 paragraphs, only 18 contain anything not found in Book 2 of the *Treatise*.
+
+Thus Terence Penelhum: "The *Dissertation* is merely a brief résumé of the arguments of Book II of the *Treatise*" (1975, 110).
+
+</section><section>
+
+## 1. The theory of the double relation in the *Treatise*
+
+A puzzling claim:
+
+> The first idea, that is presented to the mind, is that of the cause or productive principle. This excites the passion, connected with it; and that passion, when excited, turns our view to another idea, which is that of self. Here then is a passion plac'd betwixt two ideas, of which the one produces it, and the other is produc'd by it. The first idea ... represents the *cause*, the second the *object* of the passion. <cite>T 2.1.2.4; SBN 278</cite>
+
+</section><section>
+
+## 1. The theory of the double relation in the *Treatise*
+
+The puzzling claim unpacked:
+
+1. The relationship between pride and the idea of self is that of cause to effect (rather than that of effect to cause, or that of effect to part of the cause).
+2. The relationship between pride and the idea of self is contingent (rather than logical or conceptual).
+
+</section><section>
+
+## 1. The theory of the double relation in the *Treatise*
+
+Páll Árdal on claim (2):
+
+> Hume thinks of the relation of pride and its object as a contingent relation. One might be proud and yet not think of oneself... But, contrary to Hume's view, one must insist that it would be logically absurd to suggest that a man might have the passion of pride, and, at the same time, that the object of this pride... is another and not the person himself. Hume, who in most places appears to think of pride as a form of self-valuing, ought to have seen that 'to think highly of oneself because of y' and 'to be proud of y' are two ways of saying almost the same thing, and that the relation to oneself is a logical aspect of pride without which it could not be pride at all. <cite>1966, 23–24</cite>
+
+</section><section class="centred">
+
+## 1. The theory of the double relation in the *Treatise*
+
+![Hume's Theory of the Double Relation v.1](/assets/img/double_relation_v1.png)
+
+Hume's Theory of the Double Relation v.1
+
+</section><section class="centred">
+
+## 1. The theory of the double relation in the *Treatise*
+
+![Hume's Theory of the Double Relation v.2](/assets/img/double_relation_v2.png)
+
+Hume's Theory of the Double Relation v.2
+
+</section><section>
+
+## 1. The theory of the double relation in the *Treatise*
+
+> In the third place, ’tis observable of these two kinds of association, that they very much assist and forward each other, and that the transition is more easily made where they both concur in the same object. Thus a man, who, by any injury from another, is very much discompos'd and ruffled in his temper, is apt to find a hundred subjects of discontent, impatience, fear, and other uneasy passions; especially if he can discover these subjects in or near the person, who was the cause [*sic.*] of his first passion. Those principles, which forward the transition of ideas, here concur with those, which operate on the passions; and both uniting in one action, bestow on the mind a double impulse. The new passion, therefore, must arise with so much greater violence, and the transition to it must be render'd so much more easy and natural. <cite>T 2.1.4.4; SBN 283–84</cite>
+
+</section><section>
+
+## 2. Indirect passions in the *Treatise*
+
+The 'Humean' view of the indirect passions:
+
+1. The indirect passions are simple (i.e. indivisible) impressions, and hence cannot be defined (in the sense of being analysed into component parts).
+2. The indirect passions are essentially feelings or sensations.
+3. The relationship between an indirect passion and the idea of its object is causal (and thus contingent).
+
+</section><section>
+
+## 2. Indirect passions in the *Treatise*
+
+Textual evidence for (1):
+
+> The passions of <span class="sc">pride</span> and <span class="sc">humility</span> being simple and uniform impressions, ’tis impossible we can ever, by a multitude of words, give a just definition of them, or indeed of any of the passions. <cite>T 2.1.2.1; SBN 277</cite>
+
+> ’Tis altogether impossible to give any definition of the passions of *love* and *hatred*; and that because they produce merely a simple impression, without any mixture or composition. <cite>T 2.2.1.1; SBN 329</cite>
+
+</section><section>
+
+## 2. Indirect passions in the *Treatise*
+
+Textual evidence for (2):
+
+> The *second* quality, which I discover in these passions... is their sensations, or the peculiar emotions they excite in the soul, *and which constitute their very being and essence*. Thus pride is a pleasant sensation, and humility a painful; and upon the removal of the pleasure and pain, there is in reality no pride nor humility. <cite>T 2.1.5.4; SBN 286; second emphasis mine</cite>
+
+</section><section>
+
+## 2. Indirect passions in the *Treatise*
+
+Textual evidence for (3):
+
+> [N]ature has given to the organs of the human mind, a certain disposition fitted to produce a peculiar impression or emotion, which we call *pride*: To this emotion she has assign'd a certain idea, *viz.* that of *self*, which it never fails to produce. This contrivance of nature is easily conceiv'd. We have many instances of such a situation of affairs. The nerves of the nose and palate are so dispos'd, as in certain circumstances to convey such peculiar sensations to the mind: The sensations of lust and hunger always produce in us the idea of those peculiar objects, which are suitable to each appetite. These two circumstances are united in pride. The organs are so dispos'd as to produce the passion; and the passion, after its production, naturally produces a certain idea. <cite>T 2.1.5.6; SBN 287</cite>
+
+</section><section>
+
+## 3. Hume's mature account
+
+What Hume says in the *Dissertation*:
+
+> *Pride* is a certain satisfaction in ourselves, on account of some accomplishment or possession, which we enjoy: *Humility*, on the other hand, is a dissatisfaction with ourselves, on account of some defect or infirmity.
+>
+> *Love* or *Friendship* is a complacency in another, on account of his accomplishments or services: *Hatred*, the contrary. <cite>DP 2.1–2</cite>
+
+> With regard to all these passions, the causes are what excite the emotion; the object is what the mind directs its view to when the emotion is excited. Our merit, for instance, raises pride; and *it is essential to pride to turn our view on ourselves with complacency and satisfaction.* <cite>DP 2.4; my emphasis</cite>
+
+</section><section class="centred">
+
+## 3. Hume's mature account
+
+![Hume's Theory of the Double Relation v.3](/assets/img/double_relation_v3.png)
+
+Hume's Theory of the Double Relation v.3
+
+</section><section>
+
+## Conclusion
+
+1. Hume's account of the origin of the indirect passions in *Treatise* Book 2---the "theory of the double relation of impressions and ideas"---does not work.
+2. This is because Hume views the indirect passions as simple impressions, that are only contingently related to the idea of their objects.
+3. In the *Dissertation* Hume corrects this error. The indirect passions are now seen as complex perceptions (part impression and part idea), and this solves the earlier problem with the theory of the double relation.
+
+</section>

@@ -1,54 +1,60 @@
-- title: "Project Coordinator and Web Developer"
-  places:
-    - title: "Oxford Turtle Project"
-      url: https://www.turtle.ox.ac.uk/
-    - title: "Faculty of Philosophy"
-      url: https://www.philosophy.ox.ac.uk/
-    - title: "University of Oxford"
-      url: http://www.ox.ac.uk/
-  dates: 2014-present
-- title: "Lecturer in Philosophy"
-  places:
-    - title: "Lincoln College"
-      url: https://www.lincoln.ox.ac.uk/
-    - title: "University of Oxford"
-      url: http://www.ox.ac.uk/
-  dates: 2014-2016
-- title: "Janeway Lecturer and Outreach Officer in Philosophy and Computer Science"
-  places:
-    - title: "Hertford College"
-      url: https://www.hertford.ox.ac.uk/
-    - title: "University of Oxford"
-      url: http://www.ox.ac.uk/
-  dates: 2013-2014
-- title: "PhD in Philosophy"
-  places:
-    - title: "University of Leeds"
-      url: http://www.leeds.ac.uk/
-  dates: 2009-2014
-- title: "Research Officer at the Leeds Electronic Text Centre"
-  places:
-    - title: "University of Leeds"
-      url: http://www.leeds.ac.uk/
-  dates: 2009-2011
-- title: "BPhil in Philosophy"
-  places:
-    - title: "Balliol College"
-      url: http://www.balliol.ox.ac.uk/
-    - title: "University of Oxford"
-      url: http://www.ox.ac.uk/
-  dates: 2005-2008
-- title: "Exchange Scholar"
-  places:
-    - title: "Stiftung Maximilianeum"
-      url: https://www.stiftung-maximilianeum.com/
-    - title: "University of Munich"
-      url: https://www.en.uni-muenchen.de/
-  dates: 2004-2005
-- title: "BA in Mathematics and Philosophy"
-  places:
-    - title: "Balliol College"
-      url: http://www.balliol.ox.ac.uk/
-    - title: "University of Oxford"
-      url: http://www.ox.ac.uk/
-  dates: 2000-2004
+- years: "2014-present"
+  roles:
+    - title: "Project Coordinator and Web Developer"
+      places:
+        - title: "Oxford Turtle Project"
+          url: "https://www.turtle.ox.ac.uk/"
+        - title: "Faculty of Philosophy"
+          url: "https://www.philosophy.ox.ac.uk/"
+        - title: "University of Oxford"
+          url: "http://www.ox.ac.uk/"
+      dates: "2014-present"
+    - title: "Lecturer in Philosophy"
+      places:
+        - title: "Lincoln College"
+          url: "https://www.lincoln.ox.ac.uk/"
+        - title: "University of Oxford"
+          url: "http://www.ox.ac.uk/"
+      dates: "2014-2016"
+- years: "2009-2014"
+  roles:
+    - title: "Janeway Lecturer and Outreach Officer in Philosophy and Computer Science"
+      places:
+        - title: "Hertford College"
+          url: "https://www.hertford.ox.ac.uk/"
+        - title: "University of Oxford"
+          url: "http://www.ox.ac.uk/"
+      dates: "2013-2014"
+    - title: "PhD in Philosophy"
+      places:
+        - title: "University of Leeds"
+          url: "http://www.leeds.ac.uk/"
+      dates: "2009-2014"
+    - title: "Research Officer at the Leeds Electronic Text Centre"
+      places:
+        - title: "University of Leeds"
+          url: "http://www.leeds.ac.uk/"
+      dates: "2009-2011"
+- years: "2000-2008"
+  roles:
+    - title: "BPhil in Philosophy"
+      places:
+        - title: "Balliol College"
+          url: "http://www.balliol.ox.ac.uk/"
+        - title: "University of Oxford"
+          url: "http://www.ox.ac.uk/"
+      dates: "2005-2008"
+    - title: "Exchange Scholar"
+      places:
+        - title: "Stiftung Maximilianeum"
+          url: "https://www.stiftung-maximilianeum.com/"
+        - title: "University of Munich"
+          url: "https://www.en.uni-muenchen.de/"
+      dates: "2004-2005"
+    - title: "BA in Mathematics and Philosophy"
+      places:
+        - title: "Balliol College"
+          url: "http://www.balliol.ox.ac.uk/"
+        - title: "University of Oxford"
+          url: "http://www.ox.ac.uk/"
+      dates: "2000-2004"
