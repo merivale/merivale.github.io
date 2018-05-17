@@ -11,6 +11,8 @@
       dates: "2014-present"
     - title: "Lecturer in Philosophy"
       places:
+        - title: "Hertford College"
+          url: "https://www.hertford.ox.ac.uk/"
         - title: "Lincoln College"
           url: "https://www.lincoln.ox.ac.uk/"
         - title: "University of Oxford"
