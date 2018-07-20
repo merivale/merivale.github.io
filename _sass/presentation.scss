@@ -1,0 +1,112 @@
+.presentation {
+  position: absolute;
+  max-width: none;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: auto;
+  background: $offwhite;
+  line-height: 1.5;
+}
+
+.presentation section {
+  display: none;
+  flex-direction: column;
+  cursor: default;
+  height: 100%;
+  font-size: 1.25em;
+  margin: 0 auto;
+  padding: 1rem;
+  max-width: 60rem;
+  &.active {
+    display: flex;
+  }
+  &.splash {
+    justify-content: center;
+  }
+  .delayed {
+    opacity: 0;
+    &.shown {
+      opacity: 1;
+    }
+  }
+}
+
+.presentation {
+  h1, h2, h3, h4 {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: .75em;
+  }
+  h1 {
+    font-size: 1.75em;
+  }
+  h2 {
+    font-size: 1.5em;
+  }
+  h3 {
+    font-size: 1.25em;
+  }
+  p {
+    margin-bottom: 1em;
+  }
+  ul {
+    margin: 0 0 .75em 2em;
+    li {
+      margin: .5em 0;
+    }
+  }
+  hr {
+    border-top: 1px solid $lightgray;
+  }
+}
+
+.presentation .card {
+  background: #fff;
+  padding: 1em;
+  margin-bottom: 1em;
+  border: 1px solid $softgray;
+  transition: .5s;
+  box-shadow: 0 8px 16px rgba(0, 40, 160, 0.08), 0 8px 24px rgba(0, 0, 0, 0.08);
+  h1, h2, h3, h4 {
+    text-align: left;
+  }
+  *:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.presentation blockquote {
+  margin: 0 1em;
+  border-left: .3em solid $lightgray;
+  padding-left: 1em;
+  &:before {
+    content: "\201C";
+    font-size: 2em;
+    color: $lightgray;
+    line-height: 1;
+  }
+  p:first-child {
+    text-indent: 1em;
+    margin-top: -2em;
+  }
+  cite {
+    float: right;
+    font-style: italic;
+    &:before {
+      content: "\2014";
+      margin-right: .5em;
+    }
+  }
+}
+
+.presentation table {
+  background: #fff;
+  width: auto;
+  margin: 1em auto;
+  th, td {
+    border: 1px solid $softgray;
+    padding: .5em;
+  }
+}

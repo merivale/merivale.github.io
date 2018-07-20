@@ -14,24 +14,23 @@ layout: compress
     <link rel="shortcut icon" href="/assets/img/favicon.ico">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i">
     <link rel="stylesheet" href="/assets/css/main.css">
-    <script defer src="/assets/js/presentation.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
     <title>Amyas Merivale</title>
   </head>
-  <body class="{{ page.section }}">
-    <header>
+  <body>
+    <header class="header">
       <img alt="glasses logo" src="/assets/img/favicon.ico">
       <h1>Amyas Merivale</h1>
     </header>
-    <nav>
+    <nav class="nav">
       {% for section in site.data.sections %}
         <a href="{{ section.url }}" class="{% if page.section == section.id %}active{% endif %}">{{ section.title }}</a>
       {% endfor %}
     </nav>
-    <main>
+    <main class="main {{ page.section }}">
       {{ content }}
     </main>
-    <footer>
+    <footer class="footer">
       <a href="https://orcid.org/{{ site.orcid }}">@ORCID</a>
       <a href="https://www.scopus.com/authid/detail.uri?authorId={{ site.scopus }}">@Scopus</a>
       <a href="https://github.com/{{ site.github }}">@GitHub</a>

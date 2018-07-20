@@ -1,0 +1,16 @@
+.nav {
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  font-size: 1.25em;
+  a {
+    display: block;
+    padding: 0 .5em;
+    color: $gray;
+    &.active,
+    &:hover {
+      color: $black;
+    }
+  }
+}

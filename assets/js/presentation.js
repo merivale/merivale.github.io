@@ -1,3 +1,7 @@
+---
+layout: compress
+---
+
 const slides = Array.from(document.getElementsByTagName('section'));
 
 const current = () =>
@@ -40,6 +44,4 @@ const presentation = () => {
   show(0);
 };
 
-if (document.body.classList.contains('presentation') && slides.length > 0) {
-  presentation();
-}
+presentation();

@@ -1,0 +1,55 @@
+// flexbox grid
+.columns {
+  display: flex;
+  margin: -0.5rem;
+}
+
+.column {
+  flex: 1;
+  margin: 0.5rem;
+  &.narrow {
+    flex: none;
+  }
+}
+
+// typography
+.red {
+  color: $red;
+}
+
+.orange {
+  color: $orange;
+}
+
+.yellow {
+  color: $yellow;
+}
+
+.green {
+  color: $green;
+}
+
+.blue {
+  color: $blue;
+}
+
+.purple {
+  color: $purple;
+}
+
+.right {
+  text-align: right !important;
+}
+
+.centre {
+  text-align: center !important;
+}
+
+.big {
+  font-size: 1.25em;
+}
+
+.smallcaps {
+  font-variant: small-caps;
+  font-style: normal;
+}

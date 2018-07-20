@@ -3,6 +3,8 @@ description: "Personal web site of Amyas Merivale."
 markdown: kramdown
 kramdown:
   parse_block_html: true
+sass:
+  style: compressed
 defaults:
   - scope:
       path: ""
