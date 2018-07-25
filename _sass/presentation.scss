@@ -77,6 +77,10 @@
   }
 }
 
+.presentation .column .card {
+  min-height: 100%;
+}
+
 .presentation blockquote {
   margin: 0 1em;
   border-left: .3em solid $lightgray;
