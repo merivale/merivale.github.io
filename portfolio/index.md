@@ -8,8 +8,6 @@ I specialize lately in frontend development, and am experienced in JavaScript, j
 {% for project in site.data.projects %}
 ### [{{ project.title }}]({{ project.url }})
 
-{% if project.source %}##### Source: [{{ project.source }}]({{ project.source }}){% endif %}
-
 {{ project.blurb }}
 
 {% endfor %}
