@@ -4,6 +4,9 @@
 - id: cv
   title: CV
   url: /cv
+- id: portfolio
+  title: Portfolio
+  url: /portfolio
 - id: publications
   title: Publications
   url: /publications

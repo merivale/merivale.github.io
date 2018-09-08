@@ -10,6 +10,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-orcid: 0000-0002-6301-6419
-scopus: 44461866400
-github: merivale
+orcid: https://orcid.org/0000-0002-6301-6419
+scopus: https://www.scopus.com/authid/detail.uri?authorId=44461866400
+github: https://github.com/merivale
+linkedin: https://www.linkedin.com/in/amyas-merivale-845859158

@@ -1,0 +1,20 @@
+-
+  title: The Oxford Turtle System
+  url: https://www.turtle.ox.ac.uk
+  blurb: "A complex JavaScript application (with Symfony backend) designed to support the Computer Science component of the UK National Curriculum. Includes implementation of a virtual machine and compilers for the virtual machine code, together with a forum for uploading and sharing code and teaching materials. Source code for the current web site is unavailable; source code for a new version of the software written in Node/Electron (still in development) is available at [https://github.com/oxfordturtle/turtlesystemx](https://github.com/oxfordturtle/turtlesystemx)."
+-
+  title: Victor
+  url: https://merivale.uk/victor
+  blurb: "A computational model of the English language, viewed as a code for processing messages into sentences. Written in Elm. Source code is available at [https://github.com/merivale/victor](https://github.com/merivale/victor)."
+-
+  title: Hume Texts Online
+  url: https://davidhume.org
+  blurb: "The collected works of the great Enlightenment thinker David Hume, beautifully presented and fully searchable. Written in JavaScript and Jekyll. Source code is available at [https://github.com/merivale/davidhume.org](https://github.com/merivale/davidhume.org)."
+-
+  title: Global Teacher Prize Applications Software
+  url: http://www.gtpapply.org
+  blurb: "Online tools for processing applications for the Global Teacher Prize, collecting and collating assessments from judges. Includes integration with the Google Translate API for automatically translating foreign language applications."
+-
+  title: The French Book Trade in Enlightenment Europe
+  url: http://fbtee.uws.edu.au/stn/interface
+  blurb: "Database representing the sales transations of the Société Typographique de Neuchâtel between 1769 and 1794, fully searchable and queryable, with results displayed in a variety of tabular and visual forms (including maps). Awarded the British Society for Eighteenth Century Studies Digital Resource Prize in 2017."
