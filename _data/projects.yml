@@ -1,7 +1,7 @@
 -
   title: The Oxford Turtle System
   url: https://www.turtle.ox.ac.uk
-  blurb: "A complex JavaScript application (with Symfony backend) designed to support the Computer Science component of the UK National Curriculum. Includes implementation of a virtual machine and compilers for the virtual machine code, together with a forum for uploading and sharing code and teaching materials. Source code for the current web site is unavailable; source code for a new version of the software written in Node/Electron (still in development) is available at [https://github.com/oxfordturtle/turtlesystemx](https://github.com/oxfordturtle/turtlesystemx)."
+  blurb: "A complex JavaScript application (with Symfony backend) designed to support the Computer Science component of the UK National Curriculum. Includes implementation of a virtual machine and compilers for the virtual machine code, together with a forum for uploading and sharing code and teaching materials. Source code for the current web site is unavailable; source code for a new and open version of the software written in Node/Electron (still in development) is available at [https://github.com/oxfordturtle/turtlesystemx](https://github.com/oxfordturtle/turtlesystemx)."
 -
   title: Victor
   url: https://merivale.uk/victor
@@ -17,4 +17,4 @@
 -
   title: The French Book Trade in Enlightenment Europe
   url: http://fbtee.uws.edu.au/stn/interface
-  blurb: "Database representing the sales transations of the Société Typographique de Neuchâtel between 1769 and 1794, fully searchable and queryable, with results displayed in a variety of tabular and visual forms (including maps). Awarded the British Society for Eighteenth Century Studies Digital Resource Prize in 2017."
+  blurb: "Database representing the sales transations of the Société Typographique de Neuchâtel between 1769 and 1794, fully searchable and queryable, with results displayed in a variety of tabular and visual forms (including maps). Awarded the British Society for Eighteenth Century Studies [Digital Resource Prize](https://www.bsecs.org.uk/prizes-and-awards/) in 2017."
