@@ -12,15 +12,36 @@ layout: compress
     <meta name="description" content="{{ site.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="/assets/img/favicon.ico">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i">
     <link rel="stylesheet" href="/assets/css/presentation.css">
     <script defer src="/assets/js/presentation.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.11/js/all.js" integrity="sha384-ImVoB8Er8knetgQakxuBS4G3RSkyD8IZVVQCAnmRJrDwqJFYUE4YOv+DbIofcO9C" crossorigin="anonymous"></script>
     <title>Amyas Merivale</title>
   </head>
-  <body>
-    <main class="presentation">
+  <body class="grid">
+    {% assign talk = site.data.talks[page.year][page.talk] %}
+    <header class="header">
+      <h1>{{ talk.title }}</h1>
+    </header>
+    <main class="slides">
+      <section class="splash">
+        <h1>{{ talk.title }}</h1>
+        {% if talk.subtitle %}
+          <h2>{{ talk.subtitle }}</h2>
+        {% endif %}
+        <h3>Amyas Merivale</h3>
+        <h3><em>{{ talk.event }}</em><br><em>{{ talk.location }}, {{ talk.date }}</em></h3>
+      </section>
       {{ content }}
     </main>
+    <footer class="footer">
+      <div>
+        <a href="/talks/">merivale.uk/talks/</a>
+      </div>
+      <div>
+        <a id="prev"><i class="fas fa-chevron-left"></i></a>
+        <span id="count"></span>
+        <a id="next"><i class="fas fa-chevron-right"></i></a>
+      </div>
+    </footer>
   </body>
 </html>

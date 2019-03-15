@@ -1,5 +1,6 @@
 .nav {
-  padding: 1em;
+  grid-area: nav;
+  margin: 0 1rem 1.5rem;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
@@ -8,6 +9,7 @@
     display: block;
     padding: 0 .5em;
     color: $gray;
+    text-decoration: none;
     &.active,
     &:hover {
       color: $black;

@@ -9,7 +9,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "default"
+      layout: "site"
 orcid: https://orcid.org/0000-0002-6301-6419
 scopus: https://www.scopus.com/authid/detail.uri?authorId=44461866400
 routledge: http://www.routledge.com/authors/i18300-amyas-merivale

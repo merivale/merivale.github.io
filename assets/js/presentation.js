@@ -1,47 +1,57 @@
----
-layout: compress
----
-
-const slides = Array.from(document.getElementsByTagName('section'));
+const slides = Array.from(document.getElementsByTagName('section'))
+const count = document.getElementById('count')
 
 const current = () =>
-  slides.findIndex(x => x.classList.contains('active'));
+  slides.findIndex(x => x.classList.contains('active'))
 
 const show = (index) => {
-  slides.forEach(x => x.classList.remove('active'));
-  slides[index].classList.add('active');
-};
-
-const delayed = () =>
-  Array.from(slides[current()].querySelectorAll('.delayed')).find(x => !x.classList.contains('shown'));
-
-const shown = () =>
-  Array.from(slides[current()].querySelectorAll('.shown')).pop();
+  slides.forEach(x => x.classList.remove('active'))
+  slides[index].classList.add('active')
+  count.innerHTML = `${index + 1} of ${slides.length}`
+}
 
 const next = () => {
-  if (delayed()) {
-    delayed().classList.add('shown');
+  const slide = slides.find(x => x.classList.contains('active'))
+  const delayed = Array.from(slide.querySelectorAll('.delayed'))
+  const step = delayed.findIndex(x => !x.classList.contains('shown'))
+  if (step > -1) {
+    delayed[step].classList.add('shown')
+    if (delayed[step - 1] && delayed[step - 1].classList.contains('hide')) {
+      delayed[step - 1].classList.add('hidden')
+    }
   } else if (slides[current() + 1]) {
-    show(current() + 1);
+    show(current() + 1)
   }
-};
+}
 
 const prev = () => {
-  if (shown()) {
-    shown().classList.remove('shown');
+  const slide = slides.find(x => x.classList.contains('active'))
+  const delayed = Array.from(slide.querySelectorAll('.delayed')).reverse()
+  const step = delayed.findIndex(x => x.classList.contains('shown'))
+  if (step > -1) {
+    delayed[step].classList.remove('shown')
+    if (delayed[step + 1] && delayed[step + 1].classList.contains('hide')) {
+      delayed[step + 1].classList.remove('hidden')
+    }
   } else if (slides[current() - 1]) {
-    show(current() - 1);
+    show(current() - 1)
   }
-};
+}
 
 const presentation = () => {
   document.addEventListener('keyup', (e) => {
     switch (e.key) {
-      case 'ArrowRight': next(); break;
-      case 'ArrowLeft': prev(); break;
+      case 'ArrowLeft':
+        prev()
+        break
+      case 'ArrowRight':
+        next()
+        break
     }
-  });
-  show(0);
-};
+  })
+  document.getElementById('prev').addEventListener('click', prev)
+  document.getElementById('next').addEventListener('click', next)
+  show(0)
+}
 
-presentation();
+presentation()

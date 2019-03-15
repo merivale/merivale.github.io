@@ -1,6 +1,9 @@
 ---
 ---
-@import "variables";
-@import "reset";
-@import "helpers";
-@import "presentation";
+@import "common/variables";
+@import "common/base";
+@import "common/helpers";
+@import "presentation/grid";
+@import "presentation/header";
+@import "presentation/slides";
+@import "presentation/footer";

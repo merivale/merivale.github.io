@@ -1,0 +1,101 @@
+.slides {
+  grid-area: slides;
+  overflow-y: auto;
+}
+
+section {
+  display: none;
+  cursor: default;
+  font-size: 1.25em;
+  height: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 1rem 8rem;
+  &.active {
+    display: block;
+  }
+  &.splash {
+    flex-direction: column;
+    justify-content: center;
+    &.active {
+      display: flex;
+    }
+  }
+}
+
+.delayed {
+  display: none;
+  &.shown {
+    display: block;
+  }
+  &.hidden {
+    display: none !important;
+  }
+}
+
+.card {
+  padding: 1em;
+  margin-bottom: 1em;
+  box-shadow: 0 2px 3px rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.1);
+  h1, h2, h3, h4 {
+    text-align: left;
+  }
+  *:last-child {
+    margin-bottom: 0;
+  }
+  &.delayed {
+    display: block;
+    opacity: 0;
+    transition: .5s;
+    &.shown {
+      opacity: 1;
+    }
+    &.hidden {
+      opacity: 0 !important;
+    }
+  }
+}
+
+.column .card {
+  min-height: 100%;
+}
+
+blockquote {
+  margin: 0 1em;
+  border-left: .3em solid $lightgray;
+  padding-left: 1em;
+  &:before {
+    content: "\201C";
+    font-size: 2em;
+    color: $lightgray;
+    line-height: 1;
+  }
+  p:first-child {
+    text-indent: 1em;
+    margin-top: -2em;
+  }
+  cite {
+    display: block;
+    text-align: right;
+    font-style: italic;
+    &:before {
+      content: "\2014";
+      margin-right: .5em;
+    }
+  }
+}
+
+ul {
+  margin: 0 0 .75em 2em;
+  li {
+    margin: .5em 0;
+  }
+}
+
+table {
+  margin: 1em auto;
+  th, td {
+    border: 1px solid $softgray;
+    padding: .5em;
+  }
+}

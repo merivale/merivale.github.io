@@ -1,0 +1,64 @@
+*, *::before, *::after {
+  box-sizing: inherit;
+  font-size: inherit;
+  color: inherit;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  box-sizing: border-box;
+  min-width: 320px;
+}
+
+body {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: $black;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  font-weight: 600;
+  margin-bottom: .75em;
+}
+
+h1 {
+  font-size: 1.75em;
+}
+
+h2 {
+  font-size: 1.5em;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+p {
+  margin-bottom: 1.5em;
+}
+
+em.sc {
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+ul, ol {
+  margin: 0 1em 1.5em;
+  li {}
+}
+
+hr {
+  border-top: 1px solid $lightgray;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+}

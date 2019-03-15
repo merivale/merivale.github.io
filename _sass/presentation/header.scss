@@ -1,0 +1,9 @@
+.header {
+  grid-area: header;
+  background: $green;
+  color: #fff;
+  padding: 1.5em;
+  h1 {
+    margin-bottom: 0;
+  }
+}
