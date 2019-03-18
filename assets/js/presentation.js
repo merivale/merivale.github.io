@@ -38,6 +38,18 @@ const prev = () => {
   }
 }
 
+const smaller = () => {
+  const slides = document.querySelector('.slides')
+  const size = parseFloat(window.getComputedStyle(slides).fontSize)
+  slides.style.fontSize = `${size - 2}px`
+}
+
+const larger = () => {
+  const slides = document.querySelector('.slides')
+  const size = parseFloat(window.getComputedStyle(slides).fontSize)
+  slides.style.fontSize = `${size + 2}px`
+}
+
 const presentation = () => {
   document.addEventListener('keyup', (e) => {
     switch (e.key) {
@@ -51,6 +63,8 @@ const presentation = () => {
   })
   document.getElementById('prev').addEventListener('click', prev)
   document.getElementById('next').addEventListener('click', next)
+  document.getElementById('smaller').addEventListener('click', smaller)
+  document.getElementById('larger').addEventListener('click', larger)
   show(0)
 }
 

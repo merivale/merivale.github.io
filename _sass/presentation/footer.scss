@@ -1,6 +1,6 @@
 .footer {
   grid-area: footer;
-  background: $green;
+  background: $routledge;
   color: #fff;
   display: flex;
   justify-content: space-between;
@@ -14,7 +14,7 @@
     cursor: pointer;
     text-decoration: none;
     &:hover {
-      background: darken($green, 15%);
+      background: darken($routledge, 10%);
     }
   }
 }

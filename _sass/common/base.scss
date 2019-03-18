@@ -38,7 +38,7 @@ h3 {
 }
 
 p {
-  margin-bottom: 1.5em;
+  margin-bottom: 1em;
 }
 
 em.sc {
@@ -57,8 +57,16 @@ hr {
 
 table {
   border-collapse: collapse;
+  margin: 2em auto;
+  &.fullwidth {
+    width: 100%;
+  }
 }
 
 th {
   text-align: left;
+}
+
+td, th {
+  vertical-align: top;
 }
