@@ -67,6 +67,15 @@ ul {
   }
 }
 
+dl {
+  dt {
+    font-weight: bold;
+  }
+  dd {
+    margin-bottom: .5em;
+  }
+}
+
 table {
   margin: 1em auto;
   th, td {
