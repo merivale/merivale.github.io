@@ -1,15 +1,19 @@
 -
   title: The Oxford Turtle System
   url: https://www.turtle.ox.ac.uk
-  blurb: "A complex JavaScript application (with Symfony backend) designed to support the Computer Science component of the UK National Curriculum. Includes implementation of a virtual machine and compilers for the virtual machine code, together with a forum for uploading and sharing code and teaching materials. Source code for the current web site is unavailable; source code for a new and open version of the software written in Node/Electron (still in development) is available at [https://github.com/oxfordturtle/turtlesystemx](https://github.com/oxfordturtle/turtlesystemx)."
+  blurb: "A free educational programming environment designed to teach programming to complete beginners, and to support the Computer Science component of the UK National Curriculum. This highly sophisticated progressive web app, written in TypeScript, includes an implementation of a virtual machine and compilers for the virtual machine code, supporting 6 different languages (BASIC, C, Java, Pascal, Python, and TypeScript). Source code is available at [https://github.com/oxfordturtle/turtleonline](https://github.com/oxfordturtle/turtleonline)."
 -
   title: Victor
   url: https://merivale.uk/victor
   blurb: "A computational model of the English language, viewed as a code for processing messages into sentences. Written in Elm. Source code is available at [https://github.com/merivale/victor](https://github.com/merivale/victor)."
 -
+  title: English Philosophical Texts Online
+  url: https://englishphilosophy.org
+  blurb: "A free online library of early modern English-language philosophical texts. With complex search functionality and sophisticated stylometric and word usage analysis. The site, both frontend and backend, is written in TypeScript (with Deno running the server). Source code is available at [https://github.com/englishphilosophy/english-philosophical-texts](https://github.com/englishphilosophy/english-philosophical-texts)."
+-
   title: Hume Texts Online
   url: https://davidhume.org
-  blurb: "The collected works of the great Enlightenment thinker David Hume, beautifully presented and fully searchable. Written in JavaScript and Jekyll. Source code is available at [https://github.com/merivale/davidhume.org](https://github.com/merivale/davidhume.org)."
+  blurb: "The collected works of the great Enlightenment thinker David Hume, beautifully presented and fully searchable. Written in JavaScript and Jekyll (but soon to be updated to match - and integrate more closely with - English Philosophical Texts Online). Source code is available at [https://github.com/englishphilosophy/hume-texts-online](https://github.com/englishphilosophy/hume-texts-online)."
 -
   title: Global Teacher Prize Applications Software
   url: http://www.gtpapply.org
