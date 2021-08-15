@@ -1,5 +1,22 @@
 - years: "2014-present"
   roles:
+    - title: "Front-End Curriculum Lead and Software Engineer"
+      places:
+        - title: "Skiller Whale"
+          url: "https://skillerwhale.com"
+      dates: "2021-present"
+    - title: "Contractor"
+      places:
+        - title: "Tweag Software Innovation Lab"
+          url: "https://tweag.io"
+      dates: "2020-2021"
+    - title: "Frontend Engineering Lead"
+      places:
+        - title: "Input Ouput Hong Kong (as Tweag Contractor)"
+          url: "https://iohk.io"
+      dates: "2020-2021"
+    - title: "Freelance Web Developer"
+      years: "2014-2020"
     - title: "Project Coordinator and Web Developer"
       places:
         - title: "Oxford Turtle Project"
